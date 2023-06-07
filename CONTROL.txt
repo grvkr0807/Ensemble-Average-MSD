@@ -1,0 +1,10 @@
+concentration 300
+MoleculePerBox 720
+InFile "usr/coordinates.dat"
+OutFile "usr/MSD.dat"
+AtomsPerMolecule 24
+FirstStep 0
+LastStep 6000000
+TimeStep 5000
+Step_Equilibration 500000
+LastStep_MSD 4000000
