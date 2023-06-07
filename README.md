@@ -1,5 +1,5 @@
 # Ensemble-Average-MSD
-This code calculates the ensemble average of mean square displacement (MSD) of atoms from LAMMPS trajectory file.
+This Fortran code calculates the ensemble average mean square displacement (MSD) of atoms from LAMMPS trajectory file.
 
 The CONTROL file contains MD parameters such as
 LAMMPS trajectory file location (InFile)
